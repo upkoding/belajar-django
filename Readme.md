@@ -1,6 +1,6 @@
 # Django Todo - Tutorial Belajar Django
 
-Django Todo ini adalah source code dari proyek yang saya buat di **Tutorial Django Untuk Pemula** di channel Youtube: https://www.youtube.com/c/EkaPutraGo
+Django Todo ini adalah source code dari proyek yang saya buat di **Tutorial Django Untuk Pemula** di channel Youtube: https://www.youtube.com/c/UpKoding
 
 Playlist: https://www.youtube.com/playlist?list=PL8bBYpHH3RI6Pp-kA9lmVt18ZZ2TWmmtI
 
